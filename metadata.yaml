@@ -1,0 +1,33 @@
+_repo: Terry_70587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hilton, James
+    alias: Trevor, Glen
+    birthdate: 1900
+    deathdate: 1954
+    gutenberg_agent_id: '54898'
+    url: http://www.gutenberg.org/2009/agents/54898
+    wikipedia: https://en.wikipedia.org/wiki/James_Hilton_(novelist)
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70587'
+  lccn: '27025425'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/009398049
+pgterms:marc905: 20230306024756hilton
+pgterms:marc906: '1927'
+pgterms:marc907: UK
+production_note: Dangny and Laura Natal Rodrigues (Images generously made available
+  by Hathi Trust Digital Library.)
+publication_note: '  $aUK :$bT. Butterworth, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Terry
+url: http://www.gutenberg.org/ebooks/70587
